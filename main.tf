@@ -1,4 +1,4 @@
-\# Script en Terraform para desplegar en AWS n instancias EC2 tipo ubuntu y windows server
+# Script en Terraform para desplegar en AWS n instancias EC2 tipo ubuntu y windows server
 # con acceso a internet que permiten tráfico SSH, HTTP, HTTPS, RDP, WINRM
 # que logra integrarse con Ansible al generar un archivo dinámico de inventario (ubuntu y windows server)
 # utilizado para curso de Jenkins, el script instala python para su uso con Ansible
